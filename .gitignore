@@ -1,0 +1,6 @@
+*.o
+*.obj
+*.dylib
+openssl/
+netScope
+.DS_Store
